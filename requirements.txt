@@ -1,0 +1,10 @@
+PyPDF2==3.0.1
+pdfplumber==0.10.3
+requests==2.31.0
+validators==0.22.0
+python-magic==0.4.27
+flask==3.1.2
+flask-cors==4.0.0
+urllib3==2.1.0
+beautifulsoup4==4.12.2
+python-dotenv==1.0.0
